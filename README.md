@@ -8,7 +8,7 @@
 
 <body>
 <!--     Cover photo -->
-    <img src="https://i.imgur.com/1pU4G0r.png">
+    <img src="https://checkmarx.com/wp-content/uploads/2022/08/thumbnail.png">
     <h1>✨About Me</h1>
     <b>👨‍💻 I’m a MERN stack developer</b><br>
     <b>🌱 I’m currently learning backend development</b><br>
