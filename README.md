@@ -16,7 +16,7 @@
     <b>💬 Ask me about web development</b><br>
     <h2>🌐 Social</h2>
     <!-- Linkdin -->
-    <a href="in/mohan-mal-5b8005287"><img
+    <a href="https://www.linkedin.com/in/mohan-mal-5b8005287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img
             src="https://camo.githubusercontent.com/bbd5a3be2124528ab2064d49356ed845b5f9a05fc79c603e25c76c6601e28b67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"></a>
     <!-- Facebook -->
     <a href="https://www.facebook.com/mohan.mal.1048?mibextid=ZbWKwL"><img
